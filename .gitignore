@@ -1,0 +1,7 @@
+.venv/
+.env
+.env.local
+*.p8
+*.pem
+__pycache__/
+.streamlit/

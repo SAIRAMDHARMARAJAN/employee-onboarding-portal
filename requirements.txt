@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyarrow>=14.0.1,<24
+snowflake-connector-python
+cryptography
+email-validator
+phonenumbers
+streamlit-autorefresh
